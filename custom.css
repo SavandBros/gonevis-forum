@@ -1,0 +1,8 @@
+.Header-logo {
+    width: 100px;
+}
+
+.App-header .Button,
+.App-header .Button:hover {
+    color: white !important;
+}
